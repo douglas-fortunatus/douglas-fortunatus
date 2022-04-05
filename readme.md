@@ -21,7 +21,7 @@
 ---
 
 ### 👋🏾 About Me :
-I am a Developer and Community Builder.
+I am a Developer.
 - ⚡ I am awsome to! 
 
 ---
