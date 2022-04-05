@@ -1,6 +1,6 @@
 <div id="header" align="center">
    <h1>
-      Hey, I'm @Douglas-Fortunatus
+      Hey, I'm Douglas Fortunatus
       <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
 </div>
