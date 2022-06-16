@@ -14,7 +14,8 @@
 <div align="center"></div>
 
 ### 👋🏾 About Me :
-I am a Developer.
+I am a developer with a demonstrated history of working in the computer industry. Skilled in HTML, CSS & SaSS, Vue Js, JAVA, VB.net, PHP, Javascript, and Laravel framework, Team player. Excellent communication skills with proven ability to build and lead highly efficient teams to complete tasks.
+
 - ⚡ I am awsome to! 
 
 
