@@ -2,6 +2,8 @@
    <h1>Hey, I'm Douglas Fortunatus</h1>
 </div>
 
+[![Twitter Follow Badge](https://img.shields.io/twitter/follow/Douglasfortunee?label=Twitter&logo=twitter&style=for-the-badge&color=blue)](https://twitter.com/Douglasfortunee) <br/>
+
 ![Twitter Follow Badge](https://img.shields.io/twitter/follow/Douglasfortunee?label=Twitter&logo=twitter&style=for-the-badge&color=blue"e)(https://twitter.com/Douglasfortunee) <br>
 
 <div align="center"></div>
