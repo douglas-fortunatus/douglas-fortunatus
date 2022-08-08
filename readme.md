@@ -23,12 +23,13 @@
 ## ✨ My Portfolio:
 
  **[Click Here](https://douglas.vercel.app)**.
+ 
+ - 📧 How to reach me ... fortunatusdouglas@gmail.com
 
 ## 📫 Connect with me:
 
 <p align="center">
    <a href = "https://twitter.com/Douglasfortuneev"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a> <br>
-   - 📧 How to reach me ... fortunatusdouglas@gmail.com
 </p>
 
 
