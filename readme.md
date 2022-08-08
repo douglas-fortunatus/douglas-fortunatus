@@ -1,14 +1,8 @@
 <div id="header" align="center">
    <h1>Hey, I'm Douglas Fortunatus</h1>
-   
-   <p align="center">
-     <a href="https://twitter.com/Douglasfortunee">
-       <img src="https://img.shields.io/twitter/follow/Douglasfortunee?label=Twitter&logo=twitter&style=for-the-badge&color=blue" />
-     </a>
-     
-     ![Twitter Follow Badge](https://img.shields.io/twitter/follow/Douglasfortunee?label=Twitter&logo=twitter&style=for-the-badge&color=blue"e)](https://twitter.com/Douglasfortunee)
-   </p>
 </div>
+
+![Twitter Follow Badge](https://img.shields.io/twitter/follow/Douglasfortunee?label=Twitter&logo=twitter&style=for-the-badge&color=blue"e)(https://twitter.com/Douglasfortunee) <br>
 
 <div align="center"></div>
 
@@ -28,7 +22,7 @@
 
 ## ✨ My Portfolio:
 
-// **[Click Here](https://dunsin.vercel.app)**.
+ **[Click Here](https://douglas.vercel.app)**.
 
 ## 📫 Connect with me:
 
