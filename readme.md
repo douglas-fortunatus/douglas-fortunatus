@@ -12,7 +12,7 @@
   <tr>
     <td valign="center">
       <p>
-        🚀 &nbsp;My hobbies include playing video games and coding (as a Developer and all). Watching movies and listening to music<br/>
+        🚀 &nbsp;My hobbies include coding (as a Developer and all), Watching movies and listening to music<br/>
         🙂 &nbsp;I’m looking to collaborate on various projects.<br/>
         💞️ &nbsp;Follow my github to stay updated on my amazing projects.<br/>
       </p>
