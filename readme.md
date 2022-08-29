@@ -2,7 +2,8 @@
    <h1>Hey, I'm Douglas Fortunatus</h1>
 </div>
 
-[![Twitter Follow Badge](https://img.shields.io/twitter/follow/Douglasfortunee?label=Twitter&logo=twitter&style=for-the-badge&color=blue)](https://twitter.com/Douglasfortunee) <br/>
+<a href="https://twitter.com/Douglasfortunee"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/Douglasfortunee?label=Twitter friends&style=for-the-badge&logo=twitter&color=1DA1F2"></a>
+<a href="https://www.linkedin.com/in/douglas-fortunatus-355848199/"><img alt="Linkedin" src="https://img.shields.io/static/v1?style=for-the-badge&logo=linkedin&label=Linkedin Friends&message=1k&color=blue"></a>
 
 <div align="center"></div>
 
@@ -24,12 +25,19 @@
 
  **[Click Here](https://douglas.vercel.app)**.
  
- - 📧 How to reach me ... fortunatusdouglas@gmail.com
+## Tech Stack
+
+- HTML5 && CSS
+- Java
+- React
+- PHP ( Laravel framework)
 
 ## 📫 Connect with me:
 
 <p align="center">
    <a href = "https://twitter.com/Douglasfortuneev"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a> <br>
 </p>
+<br>
+- 📧 How to reach me ... fortunatusdouglas@gmail.com
 
 
