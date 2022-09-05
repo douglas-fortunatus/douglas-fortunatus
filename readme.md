@@ -53,7 +53,7 @@
 
 ## 📫 Connect with me:
    
-   <a href = "https://twitter.com/Douglasfortuneev"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
+   <a href = "https://twitter.com/Douglasfortunee"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
    <a target="_blank" href="mailto:fortunatusdouglas@gmail.com?subject = Hello&body = Message"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> 
    <a target="_blank" href="https://www.facebook.com/douglas.fortunatus"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" /></a> 
    <a target="_blank" href="https://www.linkedin.com/in/douglas-fortunatus-355848199/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
