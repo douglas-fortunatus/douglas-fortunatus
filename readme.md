@@ -27,7 +27,7 @@ I am on a journey to make Software Development accessible to everyone in my loca
 - 🛠 &nbsp; I’m currently working in Tanzania
 - 📫 &nbsp; How to reach me on Twitter [@douglasfortunee](https://twitter.com/Douglasfortunee)
 - 💼 &nbsp; Find my resume on [LinkedIn](https://www.linkedin.com/in/douglas-fortunatus-355848199/)
-- 💞️ &nbsp;Follow my github to stay updated on my amazing projects.
+- 🚀 &nbsp;Follow my github to stay updated on my amazing projects.
 
 ### Hobbies:
 
