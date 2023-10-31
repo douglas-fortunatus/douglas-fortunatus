@@ -2,13 +2,10 @@ Hello, I’m Douglas.
 
 I'm a software developer based in Tanzania 🇹🇿. I'm interested in design systems, development, user/dev experience, and engineering.
 
-I'm currently working at [Corprate Information Technology](https://www.cits.co.tz) as a Software Engineer to grow its developer community.
-
+<!-- I'm currently working at [Corprate Information Technology](https://www.cits.co.tz) as a Software Engineer to grow its developer community. -->
 
 [My personal website]([https://douglasworks.netlify.app/)) <br />
 [@douglasfortunee on Twitter](https://twitter.com/Douglasfortunee)
-
-👊
 
 
 <!--
