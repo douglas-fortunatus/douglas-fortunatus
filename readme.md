@@ -15,6 +15,7 @@ Currently, I'm focused on making the best products at [Fléx](https://flex.co.tz
 - React
 - Node.js
 - Laravel
+- Java
    
 <!--  <details>	
   <summary><b>⚡ Github Stats</b></summary>
